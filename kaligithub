@@ -1,0 +1,7 @@
+ls -list directories
+pwd-print working directory
+cd cretae directory
+mkdir-make directory 
+rmdir-remove directory
+mv move files
+cp-copy files

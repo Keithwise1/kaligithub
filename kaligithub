@@ -1,6 +1,6 @@
 ls -list directories
 pwd-print working directory
-cd cretae directory
+cd create  directory
 mkdir-make directory 
 rmdir-remove directory
 mv move files

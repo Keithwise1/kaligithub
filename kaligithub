@@ -5,3 +5,20 @@ mkdir-make directory
 rmdir-remove directory
 mv move files
 cp-copy files
+rmdir - Removes an empty directory.
+touch- Creates an empty file or updates the timestamp of an existing file
+chmod - Changes the permissions of a file or directory.
+chown - Changes the owner of a file or directory.
+cat - Concatenates and displays file content.
+nano - A text editor for editing files.
+vim - Another text editor for editing files.
+echo - Displays a line of text or string that is passed as an argument.
+grep - Searches for a specified pattern in files.
+find - Searches for files in a directory hierarchy.
+locate - Finds files by name.
+updatedb- Updates the database used by the `locate` command.
+df - Displays the amount of disk space available on the file system.
+du - Estimates file space usage.
+top - Displays all running processes.
+ps - Reports a snapshot of the current processes.
+kill - Terminates a process by PID.
